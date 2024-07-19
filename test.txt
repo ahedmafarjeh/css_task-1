@@ -3,3 +3,5 @@ testhub
 
 // function to get sum
 okk
+
+// function to get avgg
