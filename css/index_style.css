@@ -9,3 +9,11 @@ p{
 .section_footer{
  width: 60%; 
 }
+
+.member{
+  float: left;
+  width: 33.3%;
+}
+.clear{
+  clear: both;
+}
